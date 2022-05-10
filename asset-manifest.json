@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Pizza/static/js/main.1695577d.js",
+    "static/media/pizza-3.jpg": "/Pizza/static/media/pizza-3.f2f9b9a49128f877c57f.jpg",
+    "static/media/featured3.jpg": "/Pizza/static/media/featured3.66d68644270582e9ce8d.jpg",
+    "static/media/product-2.jpg": "/Pizza/static/media/product-2.4c066971ce4367c6e0bc.jpg",
+    "static/media/product-1.jpg": "/Pizza/static/media/product-1.36d084f3e4823b981b4b.jpg",
+    "static/media/product-3.jpg": "/Pizza/static/media/product-3.115cc32b63d9b7485e7e.jpg",
+    "index.html": "/Pizza/index.html",
+    "main.1695577d.js.map": "/Pizza/static/js/main.1695577d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1695577d.js"
+  ]
+}
